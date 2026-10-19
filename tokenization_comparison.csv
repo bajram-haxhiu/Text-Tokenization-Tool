@@ -1,0 +1,6 @@
+Category,Characters,split() tokens,NLTK tokens,spaCy tokens
+Contractions,35,6,9,9
+Numbers,47,7,8,8
+Dates,31,6,7,11
+Punctuation,34,7,13,13
+Email and URL,60,7,12,8
